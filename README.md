@@ -84,11 +84,6 @@
 - Animazioni basate su direzione scroll
 - Carrello con micro-interazioni
 
-#### [Antico Sicilianu - Shop](https://www.anticosicilianu.com/)
-![Barba.js](https://img.shields.io/badge/-Barba.js-FF6B6B)
-![PageTransition](https://img.shields.io/badge/-Page_Transitions-4A90E2)
-- Store online per prodotti tipici siciliani
-- Transizioni fluidhe tra categorie
 
 
 #### 🎯 Skill Matrix
