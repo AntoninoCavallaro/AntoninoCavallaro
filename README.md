@@ -100,6 +100,3 @@
 ### 🌐 Connettiamoci
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anthony-cavallaro-223235137/)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[AntoninoCavallaro]&color=20C997&style=flat" alt="Visualizzazioni profilo" />
-</div>
