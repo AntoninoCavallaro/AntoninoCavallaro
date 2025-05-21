@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=Ciao+👋,+Sono+Antonino+Cavallaro;Developer+Full+Stack;Innovazione+%26+Creatività" alt="Header animato" />
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=Ciao+👋,+Sono+Antonino+Cavallaro;Developer+Full+Stack;Innovazione+%26+Creatività" alt="Header animato" />
 </div>
 
 ---
@@ -79,7 +79,7 @@
 - Transizioni fluidhe tra categorie
 
 <details>
-<summary>🛠️ Stack Comune</summary>
+
 
 
 ### 📈 Statistiche GitHub
