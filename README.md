@@ -91,7 +91,7 @@
 - Transizioni fluidhe tra categorie
 
 
-#### �️ Skill Matrix
+#### 🎯 Skill Matrix
 [![Skill Matrix](https://skillicons.dev/icons?i=js,react,nodejs,cs,dotnet,php,mysql,aws,git)](https://skillicons.dev)
 
 ---
