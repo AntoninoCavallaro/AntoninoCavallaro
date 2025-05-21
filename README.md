@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=Ciao+👋,+Sono+Antonino+Cavallaro;Developer+Full+Stack;Innovazione+%26+Creatività" alt="Header animato" />
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+    Ciao, Sono Antonino Cavallaro
+  </h1>
+  
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-20C997?style=for-the-badge&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/Innovazione_&_Creatività-FF6D00?style=for-the-badge">
 </div>
 
 ---
@@ -77,9 +83,6 @@
 ![PageTransition](https://img.shields.io/badge/-Page_Transitions-4A90E2)
 - Store online per prodotti tipici siciliani
 - Transizioni fluidhe tra categorie
-
-<details>
-
 
 
 ### 📈 Statistiche GitHub
