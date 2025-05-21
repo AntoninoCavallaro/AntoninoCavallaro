@@ -91,23 +91,12 @@
 - Transizioni fluidhe tra categorie
 
 
-### 🎯 Metriche Creative
-
-#### 🌱 Crescita Codice
-[![Progresso](https://github-profile-progress.vercel.app/api/cycle/antonino-cavallaro?theme=vue)](https://github.com/antonino-cavallaro)
-
-#### 🔥 Streak Personalizzato
-[![GitHub Streak](https://streak-stats.demolab.com?user=AntoninoCavallaro&theme=vue&mode=weekly)](https://git.io/streak-stats)
-
 #### �️ Skill Matrix
 [![Skill Matrix](https://skillicons.dev/icons?i=js,react,nodejs,cs,dotnet,php,mysql,aws,git)](https://skillicons.dev)
 
-#### 🏆 Trofei GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=AntoninoCavallaro&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
-### 🌐 Connettiamoci
+
 ### 🌐 Connettiamoci
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anthony-cavallaro-223235137/)
 
