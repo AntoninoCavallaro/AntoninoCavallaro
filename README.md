@@ -14,8 +14,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
+![MVC](https://img.shields.io/badge/-MVC-512BD4?logo=.net)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
 
 ---
 
