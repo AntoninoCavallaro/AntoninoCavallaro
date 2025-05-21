@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=Ciao+👋,+Sono+[Nome+Cognome];Developer+Full+Stack;Innovazione+%26+Creatività" alt="Header animato" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=435&lines=Ciao+👋,+Sono+Antonino+Cavallaro;Developer+Full+Stack;Innovazione+%26+Creatività" alt="Header animato" />
 </div>
 
 ---
@@ -20,58 +20,63 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
 ![AOS](https://img.shields.io/badge/-Animate_On_Scroll-00C7B7)
-- E-commerce moda con animazioni fluide
-- Caroselli interattivi e transizioni personalizzate
-- Ottimizzazione SEO e mobile-first design
+- Showcase interattivo per agenzia creativa
+- Presentazione servizi con transizioni dinamiche
+- Case study animati con effetti a scomparsa
+- Ottimizzato per lead generation
 
 #### [Vossia - Sicilian Brand](https://vossia.prontoshop.it/)
 ![ScrollReveal](https://img.shields.io/badge/-ScrollReveal-FF3F3F)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02)
-- Sito premium con parallax avanzato
-- Animazioni sincronizzate allo scroll
-- Galleria fullscreen con effetto museo
+- Sito istituzionale per brand enogastronomico
+- Storytelling visivo con elementi culturali siciliani
+- Sezione prodotti con parallax territoriale
+- Animazioni coordinate su eventi di scroll
 
 #### [Nerietna - Luxury Hotel](https://www.nerietna.com/)
 ![AOS](https://img.shields.io/badge/-Animate_On_Scroll-00C7B7)
 ![Lightbox](https://img.shields.io/badge/-Lightbox2-0038A8)
-- Portfolio artistico con effetti visuali
-- Grid animata in entrata sequenziale
-- Lightbox personalizzato per opere d'arte
+- Portale per struttura alberghiera premium
+- Tour virtuale delle suite con gallery fullscreen
+- Booking integrato con effetti di transizione
+- Design elegante e orientato all'ospitalità
 
 #### [Di Perì - Steakhouse](https://www.diperisteakhouse.it/)
 ![SwiperJS](https://img.shields.io/badge/-SwiperJS-6332F6)
 ![CSSGrid](https://img.shields.io/badge/-CSS_Grid-1572B6)
-- Sito ristorante gourmet con menu interattivo
-- Slider food photography con touch control
-- Mappa location con animazione custom
+- Sito per ristorante carne premium
+- Menù digitale con filtri allergenici
+- Slider chef's special con autoplay
+- Mappa interattiva con animazioni hover
 
 #### [Finziade - Pizzeria](https://www.finziadepizzeria.it/)
 ![ScrollMagic](https://img.shields.io/badge/-ScrollMagic-61DAFB)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699)
-- Micro-interazioni su elementi culinari
-- Timeline animata della storia della pizzeria
-- Effetti "al forno" per le immagini dei piatti
+- Portale per pizzeria tradizionale
+- Timeline animata della lievitazione
+- Galleria ingredienti con zoom interattivo
+- Effetti "pizza sfornata" al click
 
-#### [49 Ganci - Restourant](https://49ganci.prontoshop.it/)
+#### [49 Ganci - Restaurant](https://49ganci.prontoshop.it/)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000)
 ![TiltJS](https://img.shields.io/badge/-Tilt.js-08D8A0)
-- Design avanguardista con elementi 3D
-- Effetti hover dinamici su prodotti
-- Transizioni pagina non convenzionali
+- Sito per location gastronomica esclusiva
+- Effetti 3D su piatti signature
+- Navigazione non convenzionale a "salti"
+- Design materico con textures HD
 
 #### [Russo - Shop](https://russo.prontoshop.it/)
 ![Lax.js](https://img.shields.io/badge/-Lax.js-430098)
 ![CSS_Animations](https://img.shields.io/badge/-CSS_Animations-1572B6)
-- E-commerce con scroll-direction detection
-- Animazioni basate sul movimento del mouse
-- Filtri prodotti con transizioni fluide
+- E-commerce Liquori responsive
+- Animazioni basate su direzione scroll
+- Carrello con micro-interazioni
 
 #### [Antico Sicilianu - Shop](https://www.anticosicilianu.com/)
 ![Barba.js](https://img.shields.io/badge/-Barba.js-FF6B6B)
 ![PageTransition](https://img.shields.io/badge/-Page_Transitions-4A90E2)
-- Transizioni tra pagine stile SPA
-- Effetti vintage per sezioni storiche
-- Menu interattivo con animazioni SVG
+- Store online per prodotti tipici siciliani
+- Transizioni fluidhe tra categorie
 
 <details>
 <summary>🛠️ Stack Comune</summary>
