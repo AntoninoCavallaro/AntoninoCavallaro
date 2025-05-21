@@ -91,16 +91,25 @@
 - Transizioni fluidhe tra categorie
 
 
-### 📈 Statistiche GitHub
-![Statistiche](https://github-readme-stats.vercel.app/api?username=[AntoninoCavallaro]&show_icons=true&theme=radical&hide_border=true)
-![Linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=[AntoninoCavallaro]&layout=compact&theme=radical&hide_border=true)
+### 🎯 Metriche Creative
+
+#### 🌱 Crescita Codice
+[![Progresso](https://github-profile-progress.vercel.app/api/cycle/antonino-cavallaro?theme=vue)](https://github.com/antonino-cavallaro)
+
+#### 🔥 Streak Personalizzato
+[![GitHub Streak](https://streak-stats.demolab.com?user=AntoninoCavallaro&theme=vue&mode=weekly)](https://git.io/streak-stats)
+
+#### �️ Skill Matrix
+[![Skill Matrix](https://skillicons.dev/icons?i=js,react,nodejs,cs,dotnet,php,mysql,aws,git)](https://skillicons.dev)
+
+#### 🏆 Trofei GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=AntoninoCavallaro&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🌐 Connettiamoci
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/tuo-profilo)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-20C997?logo=vercel)](https://tuo-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail)](mailto:tua@email.com)
+### 🌐 Connettiamoci
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anthony-cavallaro-223235137/)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=[AntoninoCavallaro]&color=20C997&style=flat" alt="Visualizzazioni profilo" />
