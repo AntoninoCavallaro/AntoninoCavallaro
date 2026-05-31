@@ -77,12 +77,7 @@
 - Navigazione non convenzionale a "salti"
 - Design materico con textures HD
 
-#### [Russo - Shop](https://russo.prontoshop.it/)
-![Lax.js](https://img.shields.io/badge/-Lax.js-430098)
-![CSS_Animations](https://img.shields.io/badge/-CSS_Animations-1572B6)
-- E-commerce Liquori responsive
-- Animazioni basate su direzione scroll
-- Carrello con micro-interazioni
+
 
 
 
