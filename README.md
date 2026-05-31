@@ -27,6 +27,8 @@
 
 ### 🚀 Centraly – Full Stack Property Management System (PMS)
 
+🌐 https://centraly.it
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -40,6 +42,7 @@
 - API REST con autenticazione JWT e architettura scalabile
 - Integrazione clienti, pagamenti, documenti e reportistica
 - Automazione dei processi operativi nel settore hospitality
+- Progetto SaaS in evoluzione con focus su scalabilità e automazione
 
 ---
 
