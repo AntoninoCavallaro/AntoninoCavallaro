@@ -25,6 +25,24 @@
 
 ---
 
+### 🚀 Centraly – Full Stack Property Management System (PMS)
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+- PMS (Property Management System) per hotel, villaggi turistici, residence e B&B
+- Gestione centralizzata di prenotazioni, camere, tariffe, allotment e disponibilità
+- Sistema multi-struttura con gestione ruoli (super admin, admin, receptionist, user)
+- API REST con autenticazione JWT e architettura scalabile
+- Integrazione clienti, pagamenti, documenti e reportistica
+- Automazione dei processi operativi nel settore hospitality
+
+---
+
 ### 🌐 Siti Web Realizzati
 
 #### [Latipa - Web Agency Portfolio](https://latipa.prontoshop.it/)
@@ -77,16 +95,12 @@
 - Navigazione non convenzionale a "salti"
 - Design materico con textures HD
 
-
-
-
+---
 
 #### 🎯 Skill Matrix
 [![Skill Matrix](https://skillicons.dev/icons?i=js,react,nodejs,cs,dotnet,php,mysql,aws,git)](https://skillicons.dev)
 
 ---
 
-
 ### 🌐 Connettiamoci
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anthony-cavallaro-223235137/)
-
